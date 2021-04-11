@@ -1,6 +1,6 @@
 <<<<<<< HEAD
-<html>hello
-<body> This is assignment on git
+<html>hello I am Prajakta
+<body> This is first assignment on git
 </body>
 </html>
 =======
