@@ -1,3 +1,8 @@
 body{
+<<<<<<< HEAD
 background-colour: blue;
+=======
+background-colour:blue;
+text-colour:red;
+>>>>>>> css-assignments
 }
