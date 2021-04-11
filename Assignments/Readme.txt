@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <html>hello I am Prajakta
+=======
+<html>hello
+>>>>>>> js-assignments
 <body> This is first assignment on git
 </body>
 </html>
