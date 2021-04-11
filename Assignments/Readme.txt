@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 <html>hello
-<body> This is assignment on git
+<body> This is first assignment on git
 </body>
 </html>
 =======
