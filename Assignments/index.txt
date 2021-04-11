@@ -4,6 +4,6 @@ good morning
 today is saturday
 This is my first assignment
 hope you like it.
-Good afternood
+Hope it is correct
 </body>
 </html>
