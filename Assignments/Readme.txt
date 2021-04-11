@@ -6,7 +6,7 @@
 =======
 <html> hello
 <body>This is an assignment on git.
-Hope it is correct.
+Hope it is correct and accurate.
 </body>
 </html>
 >>>>>>> html-assignments
